@@ -50,7 +50,17 @@ API_KEY = sk-xxxxxxxxxxxxxxxxxxxx
 GEMINI_API_KEY = AIxxxxxxxxxxxxxxxxxx
 ```
 
-### Step 6: Interact Locally with NFL Vision
+### Step 8: Download Kaggle Dataset using Kaggle API
+
+```txt
+Download nfl-big-data-bowl-2024 Data from Kaggle Using its API
+
+assets -|nfl-big-data-bowl-2024
+        | -| games.csv
+        | -| all other csv
+```
+
+### Step 7: Interact Locally with NFL Vision
 
 ```bash
 python3 app.py
